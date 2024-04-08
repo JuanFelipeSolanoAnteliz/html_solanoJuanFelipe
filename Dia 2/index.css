@@ -21,7 +21,7 @@ body {
 
 .name  .content .p-1 {
     color:#FFFFFF;
-    font-family: "Sofia", sans-serif ;
+    font-family: "Baloo Tamma 2", sans-serif ;
     font-weight: bolder;
     font-size: 60px;
     transform: skewY(5deg);
@@ -30,16 +30,188 @@ body {
 
 .name .content .p-2 {
     color:#FFFFFF;
-    font-family: "Sofia", sans-serif;
+    font-family: "Baloo Tamma 2", sans-serif;
     font-weight: bolder;
     font-size: 20px;
     transform: skewY(5deg);
     margin-top: 0;
     margin-bottom: 0;
+    
+
 }
-.info {
+
+
+
+.informacion {
     width: 90%;
     height: auto;
     background: #7D8BB5;
     margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
 }
+
+.informacion .tituloseccion{
+    color:#FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFFFFF dashed;
+}
+
+.informacion .tituloinfo {
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: bolder;
+    font-size:large;
+    display: inline;
+
+}
+
+.informacion .infoname{
+    color: black;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: normal;
+    font-size:large;
+    display: inline;
+
+}
+
+.informacion .titulotlf {
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: bolder;
+    font-size: large;
+    display:inline;
+}
+
+.informacion .numero {
+    color:black;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.informacion .titulogit{
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.informacion .git{
+    color: black;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: normal;
+    font-size: large;
+    display:inline;
+}
+
+.informacion .titulocorreo{
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.informacion .correo{
+    color: black;
+    font-family: "Baloo Tamma 2", sans-serif ;
+    font-weight: normal;
+    font-size: large;
+    display:inline;
+}
+
+.informacion .skills{
+    color:#FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+
+.educacion {
+    width: 90%;
+    height: auto;
+    background: #7D8BB5;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.educacion .titulo{
+    color:#FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFFFFF dashed;
+}
+
+.educacion .campus{
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    
+
+}
+
+.educacion .camp{
+    color:#FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: normal;
+    font-size: large; 
+    margin-bottom: 0;
+    
+}   
+
+
+.educacion .colegio{
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+
+
+
+.educacion .was{
+    color:#FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: normal;
+    font-size: large; 
+}
+
+.informacion .xp {
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.informacion .fechxp {
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+
+.informacion .concept {
+    color: #FFFFFF;
+    font-family: "Baloo Tamma 2", sans-serif;
+    font-weight: normal;
+    font-size: large;
+  
+}
+
+

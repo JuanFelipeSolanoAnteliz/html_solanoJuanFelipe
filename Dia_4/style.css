@@ -1,0 +1,44 @@
+body{
+    background: #111529;
+
+}
+
+.container{
+    width: 900px;
+    height: 1700px;
+    background: #1a1919;
+    border-radius: 15px;
+    transform: translate(50%, -0);
+}
+
+#dscp{
+    float:left;
+    width: 450px;
+    border-radius: 25px;
+    
+
+}
+#cp{
+    width: 400px;
+    height: 350px;
+    border-radius: 25px;
+    border-radius: 25px;
+    top:19% ;
+    left: 3%;
+    position: absolute;
+    
+}
+
+#oni{
+    width: 400px;
+    border-radius: 15px;
+   
+}
+
+#abol{
+    width: 400px;
+    border-radius: 15px;
+    top: 41%;
+    position:absolute;
+    left: 3%;
+}

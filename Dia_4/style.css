@@ -16,7 +16,7 @@ body{
 
 #dscp{
     float:left;
-    width: 300px;
+    width: 415px;
     border-radius: 25px;
     left:3%;
     position: absolute;
@@ -25,19 +25,19 @@ body{
 
 }
 #cp{
-    width: 300px;
-    height: 170px;
+    width: 400px;
+    height: 290px;
     border-radius: 25px;
     border-radius: 25px;
-    top:27% ;
+    top:24% ;
     left: 3%;
     position: absolute;
     
 }
 
 #oni{
-    width: 330px;
-    height: 410px;
+    width: 490px;
+    height: 600px;
     border-radius: 15px;
     top:1%;
     position: absolute;
@@ -46,19 +46,21 @@ body{
 }
 
 #abol{
-    width: 300px;
+    width: 410px;
     border-radius: 15px;
-    top: 49%;
+    top: 48%;
     position:absolute;
     left: 3%;
+    height: 570px;
 }
 #coat{
-    width: 320px;
-    height: 370px;
+
+    width: 490px;
+    height: 570px;
     border-radius: 25px;
     position:absolute;
     right:3%;
-    top: 49%;
+    top: 48%;
 }
 .container2{
     width: 53%;
@@ -72,11 +74,11 @@ body{
 }
 
 #videos{
-    width: 670px;
-    height: 370px;
+    width: 950px;
+    height: 550px;
     border-radius: 25px;
     position:absolute;
-    top: 1%;
+    top: 2%;
 }
 
 .container3{
@@ -91,8 +93,8 @@ body{
 }
 
 #seprt{
-    width: 320px;
-    height: 190px;
+    width: 450px;
+    height: 290px;
     border-radius: 25px;
     position:absolute;
     left:3%;
@@ -100,13 +102,57 @@ body{
 }
 #high{
 
-    width: 310px;
-    height: 190px;
+    width: 450px;
+    height: 290px;
     border-radius: 25px;
     position:absolute;
     right:3%;
     top: 1%;
 
 }
+#imag3{
+    width: 450px;
+    height: 290px;
+    border-radius: 25px;
+    position:absolute;
+    left:3%;
+    top: 25%;   
+}
 
+#imag4{
+    width: 450px;
+    height: 290px;
+    border-radius: 25px;
+    position:absolute;
+    right:3%;
+    top: 25%;   
+}
 
+#imag5{
+    width: 450px;
+    height: 590px;
+    border-radius: 25px;
+    position:absolute;
+    left:3%;
+    top: 49%;   
+}
+
+#imag6{    
+    width: 450px;
+    height: 590px;
+    border-radius: 25px;
+    position:absolute;
+    right:3%;
+    top: 49%;   
+}
+
+.container4{
+    width: 53%;
+    height: 135%;
+    background: #1a1919;
+    margin:20px;
+    top:210%;
+    border-radius: 1.5%;
+    transform: translate(50%, -0);
+    position:absolute;
+}

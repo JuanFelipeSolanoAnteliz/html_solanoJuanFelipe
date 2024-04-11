@@ -8,55 +8,50 @@ body{
     grid-template-columns: auto auto auto ;
     background: rgb(3, 3, 3);
     position:absolute;
-    left: 20%;
-    height: 90%;
-    width: 63%;
+    left: 10%;
+    /* transform: translate(50%, 0%); */
+    height: auto;
+    width: auto;
     border-radius: 15px;
-    padding: 1%;
+    padding:2%;
 
 }
 
-.item-1{
 
+
+#up{
+    border-radius: 15px;
     grid-column: 1/3;
     grid-row: 1/1;
     /* width: 81vh; */
-    height: auto;
-    color:black;
-    background: white;
     border-radius: 15px;
-    text-align: center;
-    /* padding: 15%; */
+    /* text-align:; */
+    /* width: 100%;
+    height: 100%; */
 }
 
-.item-2{
+#purp{
 
     grid-column: 3/3;
     grid-row: 1/2;
     /* width: 40vh; */
-    color:black;
-    background: white;
     border-radius: 15px;
-    text-align: center;
     padding: 5%;   
 }
 
-.item-3{
+#tres{
     grid-column: 1/2;
     grid-row: 2/2;
     /* width: 40vh; */
-    color:black;
-    background: white;
     border-radius: 15px;
     text-align: center;
 }
 
-.item-4{
+#cuatro{
     grid-column: 2/4;
     grid-row: 2/2;
     /* width: 40vh; */
-    color:black;
-    background: white;
+
     border-radius: 15px;
     text-align: center;
     
